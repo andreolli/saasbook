@@ -1,6 +1,6 @@
-saasbook test
-Fabio A.
+# Software Engineering Topics class project
 
+Fábio Andreolli
 
 This project is based on the Software Engineering Topics class that I am enrolled.
 I am pursuing a MSc in Information Systems at Sao Paulo Universisty.
