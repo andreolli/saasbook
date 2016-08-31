@@ -2,8 +2,8 @@ saasbook test
 Fabio A.
 
 
-This project is based on the Software Engineering Topics subject that I am enrolled,
-and pursuing a MSc in Information Systems at UNIVERSIDADE DE SAO PAULO.
+This project is based on the Software Engineering Topics class that I am enrolled.
+I am pursuing a MSc in Information Systems at Sao Paulo Universisty.
 
 
 [![Build Status](https://travis-ci.org/andreolli/saasbook.svg?branch=master)](https://travis-ci.org/andreolli/saasbook) 
